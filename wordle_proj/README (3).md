@@ -1,4 +1,4 @@
-# Wordle (C++ Remake)
+# Wordle 
 
 A terminal-based implementation of the popular Wordle game where players have 6 attempts to guess a random 5-letter word.
 
